@@ -1,5 +1,3 @@
-<!-- README de perfil: vai no repositório github.com/leoesquivelcouto/leoesquivelcouto -->
-
 ### Olá, sou o Leonardo 👋
 
 Estudante de **Engenharia de Software** (6º semestre) em Brasília – DF.
