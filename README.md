@@ -24,4 +24,4 @@ Disponível para **estágio** imediatamente, presencial, híbrido ou remoto.
 
 ---
 
-[Portfólio](https://leoesquivelcouto.github.io) · [Currículo (PDF)](https://leoesquivelcouto.github.io/cv/curriculo.pdf) · leonardo.pesquivel.couto21@gmail.com
+[Portfólio](https://leoesquivelcouto.github.io) · [Currículo (PDF)](https://leoesquivelcouto.github.io/cv/curriculo.pdf) · leonardo.esquivel.couto21@gmail.com
