@@ -19,7 +19,7 @@ Disponível para **estágio** imediatamente, presencial, híbrido ou remoto.
 
 #### Com o que trabalho
 
-**Uso em projetos:** Python, FastAPI, SQL, PostgreSQL, Git, HTML, CSS, JavaScript
+**Uso em projetos:** Python, FastAPI, SQL, PostgreSQL, Git, HTML, CSS, JavaScript  
 **Conheço o básico:** React, Firebase, Docker, MySQL, pytest, Jupyter
 
 ---
