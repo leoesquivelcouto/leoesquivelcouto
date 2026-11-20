@@ -14,6 +14,7 @@ Disponível para **estágio** imediatamente, presencial, híbrido ou remoto.
 | Projeto | O que é | Stack | Status |
 |---|---|---|---|
 | [**GestClass**](https://github.com/leoesquivelcouto/gestclass) | Abonos e atestados de professores de uma escola pública. Projeto de extensão em equipe; fiz contas com aprovação, regras de segurança (LGPD) e relatórios em PDF | React · Firebase · Firestore | em implantação |
+| [**nautilus**](https://github.com/leoesquivelcouto/nautilus) | Extensão do Chrome que transforma uma lista de prompts numa fila de geração de imagens, com pausa, retomada e sem duplicatas | JavaScript · Manifest V3 · Playwright | em uso |
 | [**rumo**](https://github.com/leoesquivelcouto/rumo) | Rastreador de candidaturas que mostra quais competências as vagas mais pedem e você ainda não tem | Python · FastAPI · SQLite · pytest · Docker | em desenvolvimento |
 | [**portfólio**](https://leoesquivelcouto.github.io) | Meu site e currículo, sem framework | HTML · CSS · JS | publicado |
 
