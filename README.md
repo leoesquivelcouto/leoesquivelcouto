@@ -1,10 +1,10 @@
 ### Olá, sou o Leonardo 👋
 
-Estudante de **Engenharia de Software** (6º semestre) em Brasília – DF.
+Estudante de **Engenharia de Software** na UCB (6º semestre), em Brasília – DF.
 Construo sistemas pequenos para problemas reais, principalmente com **Python, FastAPI e SQL**.
 Disponível para **estágio** imediatamente, presencial, híbrido ou remoto.
 
-**Agora:** implantando um sistema de gestão de abonos e atestados numa escola e construindo o
+**Agora:** implantando, com minha equipe da UCB, o [GestClass](https://github.com/leoesquivelcouto/gestclass) numa escola pública do DF, e construindo o
 [`rumo`](https://github.com/leoesquivelcouto/rumo) para organizar minha busca de estágio.
 
 ---
@@ -13,15 +13,14 @@ Disponível para **estágio** imediatamente, presencial, híbrido ou remoto.
 
 | Projeto | O que é | Stack | Status |
 |---|---|---|---|
+| [**GestClass**](https://github.com/leoesquivelcouto/gestclass) | Abonos e atestados de professores de uma escola pública. Projeto de extensão em equipe; fiz contas com aprovação, regras de segurança (LGPD) e relatórios em PDF | React · Firebase · Firestore | em implantação |
 | [**rumo**](https://github.com/leoesquivelcouto/rumo) | Rastreador de candidaturas que mostra quais competências as vagas mais pedem e você ainda não tem | Python · FastAPI · SQLite · pytest · Docker | em desenvolvimento |
-| **Gestão de abonos e atestados** | Sistema com login, banco de dados e dashboard para uma escola | Autenticação · SQL · Dashboard | em implantação |
 | [**portfólio**](https://leoesquivelcouto.github.io) | Meu site e currículo, sem framework | HTML · CSS · JS | publicado |
-| **radar-de-requisitos** | Análise semanal dos requisitos de vagas de estágio | Python · pandas · GitHub Actions | planejado |
 
 #### Com o que trabalho
 
 **Uso em projetos:** Python, FastAPI, SQL, PostgreSQL, Git, HTML, CSS, JavaScript
-**Conheço o básico:** Docker, MySQL, pytest, Jupyter
+**Conheço o básico:** React, Firebase, Docker, MySQL, pytest, Jupyter
 
 ---
 
