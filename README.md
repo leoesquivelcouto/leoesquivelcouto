@@ -15,6 +15,7 @@ Disponível para **estágio** imediatamente, presencial, híbrido ou remoto.
 | Projeto | O que é | Stack | Status |
 |---|---|---|---|
 | [**GestClass**](https://github.com/leoesquivelcouto/gestclass) | Abonos e atestados de professores de uma escola pública. Projeto de extensão em equipe; fiz contas com aprovação, regras de segurança (LGPD) e relatórios em PDF | React · Firebase · Firestore | em implantação |
+| [**Mesa Posta**](https://github.com/leoesquivelcouto/mesa-posta) | API para cerimonial de casamentos: convidados, confirmação por link, mesas sem passar da capacidade (mesmo com acessos simultâneos) e check-in por QR code | Python · FastAPI · PostgreSQL · Alembic | v0.1 |
 | [**Lupa da Cota**](https://github.com/leoesquivelcouto/lupa-da-cota) | Pipeline de dados dos gastos da cota parlamentar: ETL idempotente, 442 mil despesas em PostgreSQL, 8 consultas SQL analíticas e painel com filtros | Python · pandas · PostgreSQL · Streamlit | v0.1 |
 | [**CuidaMais**](https://github.com/leoesquivelcouto/cuida-mais) | Prontuário eletrônico para monitoramento domiciliar de idosos, com alertas clínicos e relatórios. Projeto de extensão; desenvolvi a aplicação | Next.js · TypeScript · Prisma | protótipo |
 | [**nautilus**](https://github.com/leoesquivelcouto/nautilus) | Extensão do Chrome que transforma uma lista de prompts numa fila de geração de imagens, com pausa, retomada e sem duplicatas | JavaScript · Manifest V3 · Playwright | em uso |
@@ -24,7 +25,7 @@ Disponível para **estágio** imediatamente, presencial, híbrido ou remoto.
 #### Com o que trabalho
 
 **Uso em projetos:** Python, FastAPI, SQL, PostgreSQL, pandas, Git, HTML, CSS, JavaScript  
-**Conheço o básico:** React, Next.js, TypeScript, Prisma, Firebase, Docker, MySQL, pytest, Jupyter
+**Conheço o básico:** SQLAlchemy, Alembic, React, Next.js, TypeScript, Prisma, Firebase, Docker, MySQL, pytest, Jupyter
 
 ---
 
