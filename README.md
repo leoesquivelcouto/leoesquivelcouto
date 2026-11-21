@@ -15,6 +15,7 @@ Disponível para **estágio** imediatamente, presencial, híbrido ou remoto.
 | Projeto | O que é | Stack | Status |
 |---|---|---|---|
 | [**GestClass**](https://github.com/leoesquivelcouto/gestclass) | Abonos e atestados de professores de uma escola pública. Projeto de extensão em equipe; fiz contas com aprovação, regras de segurança (LGPD) e relatórios em PDF | React · Firebase · Firestore | em implantação |
+| [**Pergunte à Lei**](https://github.com/leoesquivelcouto/pergunte-a-lei) | Dúvidas sobre Lei do Estágio, LGPD e CDC respondidas citando o artigo, com recusa fora do escopo e avaliação medida (MRR 0,85) | Python · embeddings · PostgreSQL · Claude API | v0.1 |
 | [**Mesa Posta**](https://github.com/leoesquivelcouto/mesa-posta) | API para cerimonial de casamentos: convidados, confirmação por link, mesas sem passar da capacidade (mesmo com acessos simultâneos) e check-in por QR code | Python · FastAPI · PostgreSQL · Alembic | v0.1 |
 | [**Lupa da Cota**](https://github.com/leoesquivelcouto/lupa-da-cota) | Pipeline de dados dos gastos da cota parlamentar: ETL idempotente, 442 mil despesas em PostgreSQL, 8 consultas SQL analíticas e painel com filtros | Python · pandas · PostgreSQL · Streamlit | v0.1 |
 | [**CuidaMais**](https://github.com/leoesquivelcouto/cuida-mais) | Prontuário eletrônico para monitoramento domiciliar de idosos, com alertas clínicos e relatórios. Projeto de extensão; desenvolvi a aplicação | Next.js · TypeScript · Prisma | protótipo |
