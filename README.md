@@ -6,7 +6,8 @@ Disponível para **estágio** imediatamente, presencial, híbrido ou remoto.
 
 **Agora:** implantando, com minha equipe da UCB, o [GestClass](https://github.com/leoesquivelcouto/gestclass) numa escola pública do DF, publicando a
 [Lupa da Cota](https://github.com/leoesquivelcouto/lupa-da-cota), pipeline de dados públicos da Câmara, e construindo o
-[`rumo`](https://github.com/leoesquivelcouto/rumo) para organizar minha busca de estágio.
+[`rumo`](https://github.com/leoesquivelcouto/rumo) para organizar minha busca de estágio. Fora da faculdade, estou levando o
+[Nautilus](https://github.com/leoesquivelcouto/nautilus-jogo), um jogo de tabuleiro autoral, do papel até a gráfica.
 
 ---
 
@@ -14,6 +15,7 @@ Disponível para **estágio** imediatamente, presencial, híbrido ou remoto.
 
 | Projeto | O que é | Stack | Status |
 |---|---|---|---|
+| [**Nautilus**](https://github.com/leoesquivelcouto/nautilus-jogo) | Jogo de tabuleiro pirata que estou levando à produção: regras balanceadas por simulação de milhares de partidas, livro de regras, 333 cartas, ferramentas de impressão e [protótipo jogável](https://nautilus-jogo.pages.dev) | JavaScript · Vite · Node · Cloudflare Pages | em desenvolvimento |
 | [**GestClass**](https://github.com/leoesquivelcouto/gestclass) | Abonos e atestados de professores de uma escola pública. Projeto de extensão em equipe; fiz contas com aprovação, regras de segurança (LGPD) e relatórios em PDF | React · Firebase · Firestore | em implantação |
 | [**Pergunte à Lei**](https://github.com/leoesquivelcouto/pergunte-a-lei) | Dúvidas sobre Lei do Estágio, LGPD e CDC respondidas citando o artigo, com recusa fora do escopo e avaliação medida (MRR 0,85) | Python · embeddings · PostgreSQL · Claude API | v0.1 |
 | [**Mesa Posta**](https://github.com/leoesquivelcouto/mesa-posta-app) | Aplicativo completo para cerimonial de casamentos: convidados, confirmação pelo celular, mesas sem passar da capacidade e check-in por QR code com a câmera. Também há a [versão só API](https://github.com/leoesquivelcouto/mesa-posta-api), como amostra de código | Python · FastAPI · PostgreSQL · Jinja2 | v1.0 |
